@@ -1,12 +1,12 @@
-name = "PaperCSS"
+name = "PaperPlus"
 license = "MIT"
-licenselink = "https://github.com/zwbetz-gh/papercss-hugo-theme/blob/master/LICENSE"
+licenselink = "https://github.com/mohnoor94/paperplus-hugo-theme/blob/master/LICENSE"
 description = "A Hugo theme made with PaperCSS, the less formal CSS framework."
-homepage = "https://github.com/zwbetz-gh/papercss-hugo-theme"
+homepage = "https://github.com/mohnoor94/paperplus-hugo-theme"
 tags = ["blog", "paper", "informal"]
 features = ["blog", "toc", "shortcodes"]
 min_version = "0.60.1"
 
 [author]
-  name = "Zachary Betz"
-  homepage = "https://zwbetz.com/"
+  name = "Mohammad Noor AbuKhleif"
+  homepage = "https://noor.guru/"

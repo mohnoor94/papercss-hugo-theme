@@ -1,5 +1,5 @@
 ---
-title: "PaperCSS Typography"
+title: "PaperPlus Typography"
 date: 2019-02-22T20:53:58-06:00
 tags: [typography, markdown]
 show_summary: false 
@@ -80,14 +80,14 @@ _You **can** combine them_
 ## Links
 
 ```
-https://papercss-hugo-theme.netlify.com/
+https://www.noor.guru/
 
-[PaperCSS Hugo theme](https://papercss-hugo-theme.netlify.com/)
+[noor guru](https://www.noor.guru/)
 ```
 
-https://papercss-hugo-theme.netlify.com/
+https://www.noor.guru/
 
-[PaperCSS Hugo theme](https://papercss-hugo-theme.netlify.com/)
+[noor guru](https://www.noor.guru/)
 
 ## Blockquotes
 

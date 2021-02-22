@@ -1,9 +1,6 @@
-# PaperCSS
+# PaperPlus
 
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3e3a0d5d-854f-45f2-9e30-e8a86907956a/deploy-status)](https://app.netlify.com/sites/papercss-hugo-theme/deploys)
-
-A Hugo theme made with PaperCSS, the less formal CSS framework.
+A custom Hugo theme based on PaperCSS, which made with PaperCSS, the less formal CSS framework.
 
 ## Table of contents
 
@@ -22,7 +19,7 @@ A Hugo theme made with PaperCSS, the less formal CSS framework.
 
 ## Demo
 
-https://papercss-hugo-theme.netlify.com/
+** TBA **
 
 ## Minimum Hugo version
 
@@ -33,7 +30,7 @@ Hugo version `0.60.1` or higher is required. View the [Hugo releases](https://gi
 From the root of your site:
 
 ```
-git submodule add https://github.com/zwbetz-gh/papercss-hugo-theme.git themes/papercss-hugo-theme
+git submodule add https://github.com/mohnoor94/paperplus-hugo-theme themes/paperplus-hugo-theme
 ```
 
 ## Updating
@@ -46,7 +43,7 @@ git submodule update --remote --merge
 
 ## Run example site
 
-From the root of `themes/papercss-hugo-theme/exampleSite`:
+From the root of `themes/paperplus-hugo-theme/exampleSite`:
 
 ```
 hugo server --themesDir ../..
@@ -54,7 +51,7 @@ hugo server --themesDir ../..
 
 ## Configuration
 
-Copy `config.yaml` from the [`exampleSite`](https://github.com/zwbetz-gh/papercss-hugo-theme/tree/master/exampleSite), then edit as desired. 
+Copy `config.yaml` from the [`exampleSite`](https://github.com/mohnoor94/paperplus-hugo-theme/tree/master/exampleSites), then edit as desired. 
 
 ## Favicons
 
@@ -62,7 +59,7 @@ Upload your image to [RealFaviconGenerator](https://realfavicongenerator.net/) t
 
 ## Shortcodes
 
-See the [full list of supported shortcodes](https://papercss-hugo-theme.netlify.com/papercss-shortcodes/).
+** TBA **
 
 ## Disable toc for a blog post
 
@@ -88,7 +85,7 @@ show_summary: false
 
 ## Getting help
 
-If you run into an issue that isn't answered by this documentation or the [`exampleSite`](https://github.com/zwbetz-gh/papercss-hugo-theme/tree/master/exampleSite), then visit the [Hugo forum](https://discourse.gohugo.io/). The folks there are helpful and friendly. **Before** asking your question, be sure to read the [requesting help guidelines](https://discourse.gohugo.io/t/requesting-help/9132).
+If you run into an issue that isn't answered by this documentation or the [`exampleSite`](https://github.com/mohnoor94/paperplus-hugo-theme), then visit the [Hugo forum](https://discourse.gohugo.io/). The folks there are helpful and friendly. **Before** asking your question, be sure to read the [requesting help guidelines](https://discourse.gohugo.io/t/requesting-help/9132).
 
 ## Credits
 
