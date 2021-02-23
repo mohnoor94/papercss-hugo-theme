@@ -1,5 +1,8 @@
 # Change Log
 
+## V0.4
+- Add custom 404 error page.
+
 ## V0.3
 - Design refinements
 - Fix menu icon on small screens
